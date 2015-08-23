@@ -22,6 +22,8 @@
  * THE SOFTWARE.
  */
 
+#define _GNU_SOURCE
+
 #ifndef __H_RUGGED_BINDINGS__
 #define __H_RUGGED_BINDINGS__
 
